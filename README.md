@@ -19,9 +19,9 @@ This tool is meant to be used in the context of ethical hacking projects, such a
 
 ## Getting Started
 
-1. ```git clone https://github.com/0xfff0800/Brute-force-Instagram-2025.git```
+1. ```git clone https://github.com/kronev1/INSTA-2025.git```
 2. ```pip3 install -r requirements.txt```
-3. ```cd Brute-force-Instagram-2025```
+3. ```cd INSTA-2025```
 4. ```python3 insTof.py```
 
 ## Proxy Support
