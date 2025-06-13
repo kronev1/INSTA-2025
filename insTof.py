@@ -1,5 +1,3 @@
-import requests
-import re
 import asyncio
 import time
 from aiohttp import ClientSession, ClientTimeout
